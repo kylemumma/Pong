@@ -1,6 +1,6 @@
 # Pong
-Second Project using Graphics 2D
-First Project using keyListener
+Second Project using Graphics 2D, 
+First Project using keyListener ---
 CONTROLS:
 ~ == move left paddle up
 tab == move left paddle down
